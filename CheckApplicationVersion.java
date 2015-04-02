@@ -1,4 +1,4 @@
-package com.cyklodev.snippet;
+package com.cyklodev.snippet.checkapplicationversion;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -12,7 +12,7 @@ import android.view.View;
 import android.widget.Toast;
 
 
-public class MainActivity extends Activity {
+public class CheckApplicationVersion extends Activity {
 
     String numberCode;
 
